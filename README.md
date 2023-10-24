@@ -66,6 +66,8 @@ Use the artifacts that get built manually.
 
 ## Building
 
+Create a fork and build it off of actions, its much easier than these steps.
+
 If you wish to build the emulator yourself, follow these steps:
 
 ### Step 1
