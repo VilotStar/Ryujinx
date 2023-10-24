@@ -62,6 +62,7 @@ If you want to see details on updates to the emulator, you can visit our [Change
 
 The latest automatic build for Windows, macOS, and Linux can be found on the [Official Website](https://ryujinx.org/download).
 
+Use the artifacts that get built manually.
 
 ## Building
 
